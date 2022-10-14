@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/riferrei?tab=repositories">
+  <a href="https://github.com/FawziLinggo?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawziLinggo&layout=compact"

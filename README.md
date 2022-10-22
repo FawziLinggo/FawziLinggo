@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/FawziLinggo?tab=repositories">
     <img
       align="center"
@@ -14,7 +14,7 @@
       src="https://github-readme-stats.vercel.app/api?username=FawziLinggo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-</p> -->
+</p>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

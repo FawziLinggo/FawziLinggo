@@ -9,8 +9,21 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawziLinggo&layout=compact&exclude_repo=dotfiles,agumented-images-VGG16,pelatihan-jetbot&exclude=html,css,c++&theme=tokyonight)](https://github.com/FawziLinggo)
-![Fawzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawziLinggo&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/riferrei?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawziLinggo&layout=compact&exclude_repo=dotfiles,agumented-images-VGG16,pelatihan-jetbot&exclude=html,css,c++&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/FawziLinggo?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=FawziLinggo&show_icons=true&theme=tokyonight&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 </br>
 
 

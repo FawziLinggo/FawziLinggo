@@ -1,4 +1,4 @@
-<h2> Hey there! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25"><a href="https://www.linkedin.com/in/fawzi-linggo-0502a819b/"><img align="right" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="41px"/></a> <a href="https://fawzilinggo.github.io/"><img align="right" src="https://github.com/FawziLinggo/fawzilinggo.github.io/blob/master/img/logo-light.png" alt="icon | LinkedIn" width="41px"/></a> <a href="https://www.youtube.com/channel/UCldQfE5mLinNWjCFfBGgSFA"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="icon | LinkedIn" width="80px"/></a> </h2> 
+<h2> Hey there! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25"></h2> 
 
 </br>
 
